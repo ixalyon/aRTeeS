@@ -1,0 +1,5 @@
+#ifndef COMMONINCLUDE
+#define COMMONINCLUDE
+
+#endif // COMMONINCLUDE
+
